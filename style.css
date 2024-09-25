@@ -68,3 +68,20 @@ body {
     /* 陰影 */
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
+
+.wrapper .one{
+    background-color: tomato;
+    color: white;
+}
+.wrapper .two{
+    background-color: orange;
+    color: gray;
+}
+.wrapper .three{
+    background-color: dodgerblue;
+    color: black;
+}
+.wrapper .four{
+    background-color: mediumseagreen;
+    color:lightgray;
+}
